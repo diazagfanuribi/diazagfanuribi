@@ -4,7 +4,7 @@
 
 
 
-- 📫 You can reach me at diazagfanuribi@.gmail.com
+- 📫 You can reach me at diazagfanuribi@gmail.com
 - 📝 See my [linked.in](https://github-readme-stats.vercel.app/api/wakatime?username=diazagfanuribi) to get more info
 
 <!--
