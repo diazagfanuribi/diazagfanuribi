@@ -1,10 +1,10 @@
 ### Hi there 👋
 ### Current activities
-[![diazagfanuribi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mamunsyuhada)](https://wakatime.com/@diazagfanuribi)
+[![diazagfanuribi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diazagfanuribi)](https://wakatime.com/@diazagfanuribi)
 
 
 
-- 📫 You can reach me at diazagfanuribi[at]365.gmail.com
+- 📫 You can reach me at diazagfanuribi@.gmail.com
 - 📝 See my [linked.in](https://github-readme-stats.vercel.app/api/wakatime?username=diazagfanuribi) to get more info
 
 <!--
