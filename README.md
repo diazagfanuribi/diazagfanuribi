@@ -5,7 +5,7 @@
 
 
 - 📫 You can reach me at diazagfanuribi@gmail.com
-- 📝 See my [linked.in](https://github-readme-stats.vercel.app/api/wakatime?username=diazagfanuribi) to get more info
+- 📝 See my [linked.in](https://www.linkedin.com/in/diazagfa/) to get more info
 
 <!--
 **diazagfanuribi/diazagfanuribi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
